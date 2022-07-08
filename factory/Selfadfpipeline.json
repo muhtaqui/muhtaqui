@@ -1,0 +1,9 @@
+{
+	"name": "Selfadfpipeline",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "16576a1e-8b83-40a5-8c79-36e13e4b5f0a",
+		"tenantId": "0507cfa6-43e6-4613-b410-7b37f760b259"
+	}
+}
